@@ -47,3 +47,5 @@ class GradientBackground extends StatelessWidget {
     );
   }
 }
+
+// background layout 
