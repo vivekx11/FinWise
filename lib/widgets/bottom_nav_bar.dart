@@ -1,4 +1,5 @@
 // bottom bar hai ye 
+// update the bottom bar 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../utils/app_theme.dart';
